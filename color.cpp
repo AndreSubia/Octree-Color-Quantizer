@@ -159,8 +159,6 @@ class Octree{
                 img(0,0,0,1) = 255;
                 img(0,0,0,2) = 255;
                 img(0,1,0,0) = 0;
-                img(0,1,0,1) = 0;
-                img(0,1,0,2) = 0;
                 return img;
             }
             else{
